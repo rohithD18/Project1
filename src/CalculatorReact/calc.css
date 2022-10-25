@@ -1,0 +1,23 @@
+.calcBody{
+    width: 300px;
+    /* border: 2px solid black; */
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 10%;
+    border-radius: 5%;
+    background-color: antiquewhite;
+}
+button{
+    width: 80px;
+}
+
+.inputbtn{
+    text-align: right;
+    width: 295px;
+    height: 50px;
+    font-size: xx-large;
+    background-color: seagreen;
+    border: none;
+    color: white;
+    border-radius: 5%;
+}

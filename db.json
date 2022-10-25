@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Dudam Rohith",
+      "email": "dudamrohith@gmail.com"
+    },
+    {
+      "googleId": "117401625629491486763",
+      "imageUrl": "https://lh3.googleusercontent.com/a-/ACNPEu9RI8xxz8mS5f_lpNu8gFRrPvcRAmGEascyy5jo_A=s96-c",
+      "email": "dudamrohith@gmail.com",
+      "name": "Rohith Dudam",
+      "givenName": "Rohith",
+      "familyName": "Dudam",
+      "id": "117401625629491486763"
+    },
+    {
+      "googleId": "108579843124808512901",
+      "imageUrl": "https://lh3.googleusercontent.com/a-/ACNPEu8IYG5ajI2zJSLrdbXIuv8AXubyHXaCGDATDHUa=s96-c",
+      "email": "rohithdudam18@gmail.com",
+      "name": "ROHITH DUDAM",
+      "givenName": "ROHITH",
+      "familyName": "DUDAM",
+      "id": "108579843124808512901"
+    },
+    {
+      "info": {
+        "fullname": "",
+        "username": "",
+        "mobile": "",
+        "gender": "",
+        "password": "",
+        "profilepic": "",
+        "fullName": "Rohith",
+        "userName": "Lucky"
+      },
+      "id": "UirbVgt"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+.navBar{
+    background-color: #111432;
+    color: white;
+    height: 5rem;
+    /* justify-content: space-evenly; */
+}
+.aligncenter{
+    font-family: serif, Courier, monospace;
+    text-align: center;
+    background-color: #114332;
+    color: wheat;
+    padding-bottom: 5px;
+}
+.unorderList{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    width: 30%;
+    margin-left: 33%;
+}
+.svgs, .svgs:hover{
+    color: wheat;
+}
+.compLinks {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly; 
+     text-decoration: none;  
+     color: white; 
+     align-items: center;
+    
+}
+#compLink{
+    color: white; 
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly; 
+     text-decoration: none; 
+      
+}
+
+

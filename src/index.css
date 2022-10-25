@@ -1,0 +1,42 @@
+*{
+    background-color: #111432;
+    color: white;
+}
+.styling{
+    background-color:  #111432;
+    color: white;
+    display: flex;
+    list-style: none;
+    height: 5rem;
+    border: 1.5px solid grey; 
+    justify-content: space-evenly;
+    align-items: center;
+}
+.login-form{
+    margin-left: 60%;
+}
+#styles{
+    border: 2px solid grey;
+}
+img{
+    width: 4rem;
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+.aligncenter{
+    text-align: center;
+    margin-top: 5%;
+}
+p{
+    width: 50%;
+    margin-left: 25%;
+}
+.svgs{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin-left: 35%;
+}

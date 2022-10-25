@@ -1,0 +1,30 @@
+
+button{
+    background-color: #111432;
+    text-align: right;
+    color: antiquewhite;
+    border-radius: 15%;
+}
+body{
+    background-color: #111432;
+    color: #111432;
+    
+    width: 300px;
+    margin-left: 30%;
+    margin-top: 5%;
+    
+    
+}
+.TodoList{
+    text-align: center;
+}
+input{
+    background-color: rgb(70, 78, 85);
+    color: rgb(200, 203, 208);
+    border: 2px solid black;
+
+}
+.appstyle{
+    background-color: bisque;
+    border-radius: 5%;
+}

@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+  }
+  .SignUpForm{
+    border: 2px solid white;
+    width: 300px;
+    text-align: left;
+    margin-top: 5%;
+    padding: 10px;
+  }
+  input{
+    width: 90%;
+  }
+  sup{
+    font-size: x-large;
+    color: red;
+    
+  }
+  
+  
